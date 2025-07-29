@@ -1,1 +1,1 @@
-# cognitive_decline_ia
+# Dashboard of Trends about Artifitial Intelligence Impact in Academical Contexts
