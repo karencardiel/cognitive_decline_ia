@@ -63,10 +63,6 @@ Compara la **frecuencia de uso y conocimiento de IA** entre estudiantes de disti
 
 
 
-🤝 Agradecimientos y Equipo
+## 🤝 Agradecimientos y Equipo
 Este proyecto fue desarrollado por el equipo VibeCoders.
 Agradecimientos especiales a Dexter Gómez, Isabel Cámara, Ángel Antorio y a todo el equipo de EA UPY, responsables de que este Datathon se haya hecho posible. 🎉
-
-📄 Licencia
-Este proyecto se distribuye bajo la MIT License.
-💡 Siéntete libre de explorar, usar y contribuir a este dashboard.
