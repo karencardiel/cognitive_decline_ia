@@ -55,12 +55,14 @@ Compara la **frecuencia de uso y conocimiento de IA** entre estudiantes de disti
 
 ---
 
-📸 Vista Previa
-<img width="1476" height="200" alt="Screenshot 2025-07-31 122156" src="https://github.com/user-attachments/assets/4e68da91-9ec1-474d-9667-739c8fabc67b" />
-<img width="1478" height="200" alt="Screenshot 2025-07-31 122144" src="https://github.com/user-attachments/assets/f1f93b0d-559d-47f1-9a55-850fc534dd49" />
-<img width="1478" height="200" alt="Screenshot 2025-07-31 122208" src="https://github.com/user-attachments/assets/f4d242a0-c025-4011-a0b2-b61aa931e79d" />
+## 📸 Vista Previa
+<img width="1476" height="621" alt="Screenshot 2025-07-31 122156" src="https://github.com/user-attachments/assets/4e68da91-9ec1-474d-9667-739c8fabc67b" />
+<img width="1478" height="861" alt="Screenshot 2025-07-31 122144" src="https://github.com/user-attachments/assets/f1f93b0d-559d-47f1-9a55-850fc534dd49" />
+<img width="1478" height="823" alt="Screenshot 2025-07-31 122208" src="https://github.com/user-attachments/assets/f4d242a0-c025-4011-a0b2-b61aa931e79d" />
 
 
-🤝 Agradecimientos y Equipo
+
+
+## 🤝 Agradecimientos y Equipo
 Este proyecto fue desarrollado por el equipo VibeCoders.
-Agradecimientos especiales a Dexter Gómez, Isabel Cámara, Ángel Tenorio y a todo el equipo de EA UPY, responsables de que este Datathon se haya hecho posible. 🎉
+Agradecimientos especiales a Dexter Gómez, Isabel Cámara y  Ángel Tenorio por su mentoria, y a todo el equipo de EA UPY responsables de que este Datathon se haya hecho posible. 🎉
