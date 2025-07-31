@@ -65,4 +65,4 @@ Compara la **frecuencia de uso y conocimiento de IA** entre estudiantes de disti
 
 ## 🤝 Agradecimientos y Equipo
 Este proyecto fue desarrollado por el equipo VibeCoders.
-Agradecimientos especiales a Dexter Gómez, Isabel Cámara y  Ángel Antorio por su mentoria, y a todo el equipo de EA UPY responsables de que este Datathon se haya hecho posible. 🎉
+Agradecimientos especiales a Dexter Gómez, Isabel Cámara y  Ángel Tenorio por su mentoria, y a todo el equipo de EA UPY responsables de que este Datathon se haya hecho posible. 🎉
